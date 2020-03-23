@@ -11,3 +11,8 @@ Project Function:
 Network Frame:
   IDGAN Paper(Src: None)
   ESRGAN
+
+Notice:
+  Not complete cuz device(Not training and testing), can only overview this project(Project files not complete)
+  
+CHANGES DATA MARK 200323
